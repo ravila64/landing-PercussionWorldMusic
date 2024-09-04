@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Percussion World Music</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div><img class="logo_img" src="./assets/LOGO.jpeg" alt="logo" /></div>
+      <div class="logo">Percussion World Music</div>
+      <div class="navegacion">
+        <button class="home-btn">Home</button>
+        <button class="instrumentos-btn">Instrumentos</button>
+        <button class="ofertas-btn">Ofertas</button>
+        <button class="login-btn" onclick="mostrarEmail()">
+          Iniciar Sesión
+        </button>
+      </div>
+    </header>
+    <!-- <div class="iniciar-sesion" id="iniciar-sesion">
+        <label for="email">Correo electrónico</label>
+        <input type="email" name="email" id="email" required>
+    </div> -->
+
+    <!-- iniciar-sesion -->
+		<div class="overlay" id="overlay" onclick="hideCard()"></div>
+    <div class="card-container" id="card-container">
+      <div class="card-content">
+        <h2 class="card-title">Registrar su email</h2>
+        <p class="card-text">Por favor, ingrese su correo electrónico.</p>
+        <form id="emailForm" class="iniciar-sesion">
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div class="form-group">
+            <button type="submit">Enviar</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <section class="banner-container">
+      <div class="banner-image">
+        <img
+          src="./assets/african-drumming-djembe-hand-with-colorful-pattern-background.jpg"
+          alt="Banner de Percusión"
+        />
+      </div>
+      <div class="banner-text">
+        <h2 >¡Qué estás buscando?</h2>
+        <p>Encuentra los mejores instrumentos de percusión aquí.</p>
+        <div class="search-bar">
+          <input type="text" placeholder="Buscar instrumentos...">
+          <button type="submit">Buscar</button>
+      </div>
+      
+      </div>
+    </section>
+
+    <div class="filter-container">
+      <button class="filter-txt">Instrumentos de percusión:</button>
+      <button class="filter-btn" onclick="filterProducts('all')">
+        Mostrar Todos
+      </button>
+      <button class="filter-btn" onclick="filterProducts('membrana')">
+        Membrana
+      </button>
+      <button class="filter-btn" onclick="filterProducts('cuerpohueco')">
+        Cuerpo hueco
+      </button>
+      <button class="filter-btn" onclick="filterProducts('cuerda')">
+        Cuerda(Trasteo)
+      </button>
+      <button class="filter-btn" onclick="filterProducts('metal')">
+        Metal
+      </button>
+      <button class="filter-btn" onclick="filterProducts('madera')">
+        Madera
+      </button>
+      <button class="filter-btn" onclick="filterProducts('objetosv')">
+        Otra Clasificación
+      </button>
+    </div>
+    <section class="instruments">
+      <div class="instrument madera metal">
+        <h3>Baterías</h3>
+        <img
+          class="img-prod"
+          src="./assets/bateria-caja-platillos_.jpg"
+          alt="beteria"
+        />
+        <p class="descripcion">
+          Explora nuestra colección de baterías acústicas y electrónicas.
+        </p>
+        <p class="precio">$6.000.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="carrito">
+        </div>
+      </div>
+      <div class="instrument madera">
+        <h3>Congas</h3>
+        <img
+          class="img-prod"
+          src="./assets/conga2.jpeg"
+          alt="congas"
+        />
+        <p class="descripcion">
+          Encuentra congas de calidad para todas tus necesidades musicales.
+        </p>
+        <p class="precio">$4.500.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <div class="instrument cuerpohueco madera">
+        <h3>Caja</h3>
+        <img class="img-prod" src="./assets/cajones.jpg" alt="cajones" />
+        <p class="descripcion">Descubre cajones flamencos y otros estilos.</p>
+        <p class="precio">$2.000.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <div class="instrument madera">
+        <h3>Tambores</h3>
+        <img class="img-prod" src="./assets/tambores-bongo.jpg" alt="tambor" />
+        <p class="descripcion">
+          Gran variedad de tambores tradicionales y modernos.
+        </p>
+        <p class="precio">$1.000.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <!-- quite section -->
+      <div class="instrument membrana">
+        <h3>Bombo</h3>
+        <img class="img-prod" src="./assets/tambor-trampa.png" alt="bombo" />
+        <p class="descripcion">
+          El bombo, instrumento musical de percusión membranófono, de
+          timbre y sonido grave, se usa para marcar.
+        </p>
+        <p class="precio">$900.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <div class="instrument madera">
+        <h3>Atabaque</h3>
+        <img
+          class="img-prod"
+          src="./assets/atabaque-instrumento-percusion-conga.avif"
+          alt="atabaque"
+        />
+        <p class="descripcion">
+          El atabaque o atanabaque es un instrumento musical de percusión,
+          similar a un tambor. Es de origen africano y suele emplearse en tono y
+          el ritmo en los rituales afrobrasileños.
+        </p>
+        <p class="precio">$1.200.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <div class="instrument madera metal">
+        <h3>Pandereta</h3>
+        <img
+          class="img-prod"
+          src="./assets/pandereta-tamborin-.avif"
+          alt="Pandereta"
+        />
+        <p class="descripcion">
+          es un instrumento musical de manoplilla con tono indeterminado
+          perteneciente al grupo de los tambores de marco.
+        </p>
+        <p class="precio">$180.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      <div class="instrument membrana metal">
+        <h3>Timbal</h3>
+        <img
+          class="img-prod"
+          src="./assets/timables-tambor-bongo.png"
+          alt="timbales"
+        />
+        <p class="descripcion">
+          Un timbal o tímpano (en plural italiano: timpani) es un instrumento
+          musical membranófono de sonoridad grave, que puede producir golpes
+          secos o resonantes.
+        </p>
+        <p class="precio">$1.750.000COP</p>
+        <div class="cart">
+          <img src="./assets/cart.jpg" alt="">
+        </div>
+      </div>
+      
+    </section>
+    <section class="banner-container-2">
+      <div class="banner-image-2">
+        <img src="./assets/musica-atlantico.png"
+             alt="Banner de Percusión"
+        />
+      </div>
+      <div class="banner-text-2">
+        <h2>"Sumergete en el universo de la música"</h2>
+      </div>
+    </section>
+
+    <footer class="footer">           
+      <div class="copyright">© 2024 Percussion World Music</div>
+      <div class="social-links">
+        <a href="https://facebook.com" target="_blank">
+            <img src="./assets/facebook-icon.png" alt="Facebook">
+        </a>
+        <a href="https://twitter.com" target="_blank">
+            <img src="./assets/twitter-icon.png" alt="Twitter">
+        </a>
+        <a href="https://instagram.com" target="_blank">
+            <img src="./assets/instagram-ico.png">
+        </a>
+        <a href="https://youtube.com" target="_blank">
+            <img src="./assets/youtube-icon.png" alt="YouTube">
+        </a>
+    </div>
+    </footer>
+
+    <script src="./filtros.js"></script>
+  </body>
+</html>
