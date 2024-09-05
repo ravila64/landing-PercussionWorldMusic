@@ -14,8 +14,10 @@ caracteristicas
 - Diseño responsivo, amigable, innovador, moderno
 - Tiene opciones para pago con tarjeta credito, debito, nequi.
 - Tiene venta de productos de percusion de diferentes tipos 
-- Tiene la busqeda de productos
+- Tiene la busqueda de productos
 - Conexion de redes sociales.
+- Registrarse con su email
+- 
 
 -como hacer saltos en el mismo documento
 -como configurar imagenes
