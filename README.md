@@ -2,7 +2,7 @@
 <h2 align="center">Tienda de instrumentos de percusión </h2>
 
 ## Tabla de contenido 
-1. [Introducción](#Introducción)
+1. [Introducción](#introducción)
 2. [Estructura de la App](#estructura-de-la-app)
 3. [Visualización](#visualización)
 4. [Tecnologías](#tecnologías)
@@ -10,7 +10,7 @@
 6. [Formas de pago](#formas-de-pago)
 7. [Despliegue](#despliegue)
 
-##Introducción
+## Introducción
 
 ¡Bienvenidos a **PERCUSSION WORLD MUSIC**, tu tienda online especializada en instrumentos de percusión!
 En nuestro espacio musical, nos enorgullecemos de ofrecer una amplia variedad de instrumentos de percusión para músicos de todos los niveles, desde principiantes hasta profesionales. Ya sea que estés buscando tambores tradicionales, congas, bongós, cajones, timbales o cualquier otro instrumento de percusión, aquí encontrarás una selección cuidadosamente curada para satisfacer tus necesidades musicales.
@@ -22,6 +22,7 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 ¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!
 
 **Estructura de la APP**
+
 ## estructura-de-la-app
 
 *explicacion de cada opcion de la tabla*
