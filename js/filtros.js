@@ -1,6 +1,6 @@
 function filterProducts(category) {
     var products = document.querySelectorAll('.instrument'); 
-    
+    console.log(products);
     if (category === 'all') {
         products.forEach(function(product) {
             product.style.display = 'block';
