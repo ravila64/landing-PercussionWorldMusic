@@ -16,3 +16,13 @@ caracteristicas
 - Tiene venta de productos de percusion de diferentes tipos 
 - Tiene la busqeda de productos
 - Conexion de redes sociales.
+
+-como hacer saltos en el mismo documento
+-como configurar imagenes
+-como incluir codigo de html, css, js especifico, configuracion
+-como explicar inserccion de dependencias, programas de terceros
+
+contribuciones, reporte de problemas.
+
+.gitignore
+
