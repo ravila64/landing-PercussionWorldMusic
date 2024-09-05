@@ -2,7 +2,7 @@
 <h2 align="center">Tienda de instrumentos de percusión </h2>
 
 ## Tabla de contenido 
-1. [Introducción](#introducción)
+1. [Introducción](#Introducción)
 2. [Estructura de la App](#estructura-de-la-app)
 3. [Visualización](#visualización)
 4. [Tecnologías](#tecnologías)
