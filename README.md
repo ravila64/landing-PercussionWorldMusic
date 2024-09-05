@@ -1,12 +1,30 @@
-# landing-PercussionWorldMusic
-<<<<<<< HEAD
+<h1 align="center">PERCUSSION WORLD MUSIC</h1>
+<h2 align="center">Tienda de instrumentos de percusión </h2>
 
-para crear readme.md
-https://pandao.github.io/editor.md/en.html
-=======
-** tabla de contenido **
+## Tabla de contenido 
+1. [Introducción](#Introducción)
+2. [Estructura de la App](#estructura-de-la-app)
+3. [Visualización](#visualización)
+4. [Tecnologías](#tecnologías)
+5. [Codificación](#codificación)
+6. [Formas de pago](#formas-de-pago)
+7. [Despliegue](#despliegue)
 
-explicacion de cada opcion de la tabla
+##Introducción
+
+¡Bienvenidos a **PERCUSSION WORLD MUSIC**, tu tienda online especializada en instrumentos de percusión!
+En nuestro espacio musical, nos enorgullecemos de ofrecer una amplia variedad de instrumentos de percusión para músicos de todos los niveles, desde principiantes hasta profesionales. Ya sea que estés buscando tambores tradicionales, congas, bongós, cajones, timbales o cualquier otro instrumento de percusión, aquí encontrarás una selección cuidadosamente curada para satisfacer tus necesidades musicales.
+
+En PERCUSSION WORLD MUSIC, entendemos que cada ritmo cuenta y que la calidad es esencial para lograr el mejor sonido. Por eso, trabajamos con las marcas más reconocidas y garantizamos productos que combinan durabilidad, innovación y un sonido excepcional.
+
+Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestras ofertas exclusivas. Además, nuestro equipo de atención al cliente está siempre disponible para ayudarte con cualquier duda o recomendación que necesites.
+
+¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!
+
+**Estructura de la APP**
+## estructura-de-la-app
+
+*explicacion de cada opcion de la tabla*
 
 manual de que hace el proyecto
 
@@ -31,6 +49,9 @@ caracteristicas
 
 contribuciones, reporte de problemas.
 
-assets/Atlantico.jpeg
+## **Bibliografia**
+* https://pandao.github.io/editor.md/en.html
+* [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
+[Guía definitiva de Markdown](https://neoguias.com/markdown)
 
->>>>>>> b42989fad8064a12c696cc30314d8be4cc17d2fd
+
