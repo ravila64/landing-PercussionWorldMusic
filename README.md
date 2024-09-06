@@ -31,7 +31,15 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 ## Visualización
 
+![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+
 manual de que hace el proyecto
+
+
+INCLUIR IMAGENES
+
+
+
 
 tecnologia
 - javascript
