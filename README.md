@@ -1,5 +1,5 @@
 <h1 align="center">PERCUSSION WORLD MUSIC</h1>
-<h2 align="center">Tienda de instrumentos de percusión </h2>
+<h2 align="center">Tienda de instrumentos de percusión</h2>
 
 ## Tabla de contenido 
 1. [Introducción](#introducción)
@@ -27,8 +27,6 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 *explicacion de cada opcion de la tabla*
 
 <h2 align="center">3. Visualización </h2>
-**3.Visualiazacion**
-
 ## Visualización
 
 manual de que hace el proyecto
