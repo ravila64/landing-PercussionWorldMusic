@@ -22,11 +22,13 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 ¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!
 
 <h2 align="center">2. Estructura de la APP </h2>
+
 ## Estructura de la App
 
 *explicacion de cada opcion de la tabla*
 
 <h2 align="center">3. Visualización </h2>
+
 ## Visualización
 
 manual de que hace el proyecto
