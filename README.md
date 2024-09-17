@@ -25,7 +25,7 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 ## Estructura de la App
 
-*explicacion de cada opcion de la tabla*
+*explicacion de cada opcion de la app*
 
 <h2 align="center">3. Visualización </h2>
 
