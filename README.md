@@ -24,7 +24,9 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 ## Estructura de la App
 
-![imagen top]()
+![imagen top](https://github.com/ravila64/landing-PercussionWorldMusic/blob/c7758ae2de5a3ea31fde1818f38b5aa0728a1b64/assets2/Landing-top.GIF)
+
+![](K:\DevelopmentWebFullStack\Techical Component\Session53-landing\Landing\assets2\Landing-top.GIF)
 
 Descubre una amplia selección de instrumentos musicales y aprovecha nuestras ofertas exclusivas. ¡Inicia sesión para una experiencia de compra personalizada y accede a todo lo que necesitas para hacer música!.
 
