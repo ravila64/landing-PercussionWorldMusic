@@ -1,14 +1,13 @@
 <h1 align="center">PERCUSSION WORLD MUSIC</h1>
 <h2 align="center">Tienda de instrumentos de percusión</h2>
 
-## Tabla de contenido 
-1. [Introducción](#introducción)
-2. [Estructura de la App](#estructura-de-la-app)
-3. [Visualización](#visualización)
-4. [Tecnologías](#tecnologías)
-5. [Codificación](#codificación)
-6. [Formas de pago](#formas-de-pago)
-7. [Despliegue](#despliegue)
+## Tabla de contenido
+
+- [Tabla de contenido](#tabla-de-contenido)
+- [Introducción](#introducción)
+- [Estructura de la App](#estructura-de-la-app)
+- [Visualización](#visualización)
+- [**Bibliografia**](#bibliografia)
 
 ## Introducción
 
@@ -25,6 +24,18 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 ## Estructura de la App
 
+![imagen top]()
+
+Descubre una amplia selección de instrumentos musicales y aprovecha nuestras ofertas exclusivas. ¡Inicia sesión para una experiencia de compra personalizada y accede a todo lo que necesitas para hacer música!.
+
+![imagen filtros]()
+
+Utiliza nuestros filtros para encontrar fácilmente el instrumento de percusión perfecto. Explora por tipo, como membrana, cuerpo hueco, cuerda (trasteo), metal, madera y más. Ajusta las opciones según tus preferencias y descubre los sonidos que se adaptan a tu estilo.
+
+![imagen tarjeta]()
+
+Cada tarjeta muestra el nombre del instrumento, una breve descripción y el precio, junto con una imagen. Puedes agregar el instrumento directamente a tu carrito con un solo clic. Los resultados se ajustan según el filtro que utilices, ya sea por tipo específico o mostrando todos los instrumentos disponibles.
+
 *explicacion de cada opcion de la app*
 
 <h2 align="center">3. Visualización </h2>
@@ -35,25 +46,23 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 manual de que hace el proyecto
 
-
 INCLUIR IMAGENES
 
-
-
-
 tecnologia
+
 - javascript
 -html
 -css
 
 caracteristicas
+
 - Diseño responsivo, amigable, innovador, moderno
 - Tiene opciones para pago con tarjeta credito, debito, nequi.
-- Tiene venta de productos de percusion de diferentes tipos 
+- Tiene venta de productos de percusion de diferentes tipos
 - Tiene la busqueda de productos
 - Conexion de redes sociales.
 - Registrarse con su email
-- 
+-
 
 -como hacer saltos en el mismo documento
 -como configurar imagenes
@@ -63,8 +72,8 @@ caracteristicas
 contribuciones, reporte de problemas.
 
 ## **Bibliografia**
-* https://pandao.github.io/editor.md/en.html
-* [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
+
+- <https://pandao.github.io/editor.md/en.html>
+
+- [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
 [Guía definitiva de Markdown](https://neoguias.com/markdown)
-
-
