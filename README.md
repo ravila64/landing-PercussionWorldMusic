@@ -3,10 +3,14 @@
 
 ## Tabla de contenido
 
-- [Tabla de contenido](#tabla-de-contenido)
-- [Introducción](#introducción)
-- [Estructura de la App](#estructura-de-la-app)
-- [Visualización](#visualización)
+[Introducción](#introducción)
+[Estructura de la App](#estructura-de-la-app)
+[Conéctate a través de nuestras Redes Sociales](#conéctate-a-través-de-nuestras-redes-sociales)
+[Visualización](#visualización)
+[Tecnología](#tecnologia)
+[Características](#caracteristicas)
+
+-
 - [**Bibliografia**](#bibliografia)
 
 ## Introducción
@@ -38,23 +42,45 @@ Cada tarjeta muestra el nombre del instrumento, una breve descripción y el prec
 
 ![botton](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-bottom.GIF)
 
+## Conéctate a través de nuestras Redes Sociales ##
+
+¡No te pierdas ninguna actualización! Sigue nuestras redes sociales para estar siempre informado sobre nuestras últimas novedades, eventos especiales, y contenido exclusivo. Comparte tu experiencia, participa en nuestra comunidad y forma parte de la conversación.
+
+## ¿Por qué seguirnos? ##
+
+Novedades en tiempo real: Sé el primero en enterarte de nuestros lanzamientos y promociones.
+Contenido exclusivo: Ofrecemos consejos, tutoriales y contenido personalizado que solo encontrarás en nuestras plataformas.
+Participa y comparte: Interactúa con nosotros, deja tus comentarios y comparte tus experiencias con otros usuarios.
+Soporte directo: Resolvemos tus dudas y respondemos a tus preguntas de manera rápida y personalizada.
+Nuestras redes
+Estamos presentes en las plataformas más importantes. Síguenos en:
+
+# Facebook:#  Únete a nuestra comunidad y mantente al día con nuestras publicaciones
+
+# Instagram:#  Inspírate con imágenes y videos detrás de escena
+
+# Twitter:# Recibe noticias rápidas y participa en conversaciones en tiempo real
+
+# LinkedIn:# Conéctate profesionalmente y sigue nuestras actualizaciones corporativas
+
+Haz clic en los íconos de abajo y sé parte de nuestra red.
+
+Este texto invita a los usuarios a seguirte en redes, destacando los beneficios y la importancia de estar conectados.
+
 <h2 align="center">3. Visualización </h2>
 
 ## Visualización
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+La visualización en una landing page se refiere a cómo se presenta la información visual y gráfica para captar la atención del usuario y guiarlo hacia una acción específica. Se trata de usar elementos visuales como imágenes, gráficos, íconos, colores y tipografía para transmitir un mensaje de manera clara y atractiva.
 
-manual de que hace el proyecto
+## Tecnologia
 
-INCLUIR IMAGENES
+- HTML 5
+- CSS 3
+- Javascript
+- Editor : VSCODE
 
-tecnologia
-
-- javascript
--html
--css
-
-caracteristicas
+## Caracteristicas
 
 - Diseño responsivo, amigable, innovador, moderno
 - Tiene opciones para pago con tarjeta credito, debito, nequi.
