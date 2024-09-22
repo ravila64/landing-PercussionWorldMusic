@@ -24,21 +24,19 @@ Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestr
 
 ## Estructura de la App
 
-![imagen top](https://github.com/ravila64/landing-PercussionWorldMusic/blob/c7758ae2de5a3ea31fde1818f38b5aa0728a1b64/assets2/Landing-top.GIF)
-
-![](K:\DevelopmentWebFullStack\Techical Component\Session53-landing\Landing\assets2\Landing-top.GIF)
+![imagen top](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-top.GIF)
 
 Descubre una amplia selección de instrumentos musicales y aprovecha nuestras ofertas exclusivas. ¡Inicia sesión para una experiencia de compra personalizada y accede a todo lo que necesitas para hacer música!.
 
-![imagen filtros]()
+![imagen filtros](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-filtrar.GIF)
 
 Utiliza nuestros filtros para encontrar fácilmente el instrumento de percusión perfecto. Explora por tipo, como membrana, cuerpo hueco, cuerda (trasteo), metal, madera y más. Ajusta las opciones según tus preferencias y descubre los sonidos que se adaptan a tu estilo.
 
-![imagen tarjeta]()
+![imagen tarjeta](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-elemento.GIF)
 
 Cada tarjeta muestra el nombre del instrumento, una breve descripción y el precio, junto con una imagen. Puedes agregar el instrumento directamente a tu carrito con un solo clic. Los resultados se ajustan según el filtro que utilices, ya sea por tipo específico o mostrando todos los instrumentos disponibles.
 
-*explicacion de cada opcion de la app*
+![botton](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-bottom.GIF)
 
 <h2 align="center">3. Visualización </h2>
 
