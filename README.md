@@ -24,7 +24,9 @@ En PERCUSSION WORLD MUSIC, entendemos que cada ritmo cuenta y que la calidad es 
 
 Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestras ofertas exclusivas. Además, nuestro equipo de atención al cliente está siempre disponible para ayudarte con cualquier duda o recomendación que necesites.
 
-¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!. ![Tabla de contenido](#tabla-de-contenido)
+¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!.
+
+[Volver al Inicio](#tabla-de-contenido)
 
 <h2 align="center">2. Estructura de la APP </h2>
 
@@ -75,7 +77,9 @@ Conéctate profesionalmente y sigue nuestras actualizaciones corporativas
 
 Haz clic en los íconos de abajo y sé parte de nuestra red.
 
-Este texto invita a los usuarios a seguirte en redes, destacando los beneficios y la importancia de estar conectados. ![Tabla de contenido](#tabla-de-contenido)
+Este texto invita a los usuarios a seguirte en redes, destacando los beneficios y la importancia de estar conectados.
+
+[Volver al Inicio](#tabla-de-contenido)
 
 <h2 align="center">3. Visualización </h2>
 
@@ -114,4 +118,4 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 
 [Guía definitiva de Markdown](https://neoguias.com/markdown)
 
-![Tabla de contenido](#tabla-de-contenido)
+[Volver al Inicio](#tabla-de-contenido)
