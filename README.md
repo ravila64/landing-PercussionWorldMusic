@@ -13,6 +13,8 @@
 
 [Características](#caracteristicas)
 
+[Despligue App](#despliegue-app)
+
 [Bibliografia](#bibliografia)
 
 ## Introducción
@@ -114,6 +116,10 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 - Explicar inserccion de dependencias, programas de terceros, etc
 - Contribuciones, reporte de problemas.
 
+## Despliegue App
+
+![Despliegue](https://ravila64.github.io/landing-PercussionWorldMusic/)
+
 ## **Bibliografia**
 
 [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
@@ -121,3 +127,4 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 [Guía definitiva de Markdown](https://neoguias.com/markdown)
 
 [Volver al Inicio](#tabla-de-contenido)
+
