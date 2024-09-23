@@ -4,14 +4,16 @@
 ## Tabla de contenido
 
 [Introducción](#introducción)
+
 [Estructura de la App](#estructura-de-la-app)
-[Conéctate a través de nuestras Redes Sociales](#conéctate-a-través-de-nuestras-redes-sociales)
+
 [Visualización](#visualización)
+
 [Tecnología](#tecnologia)
+
 [Características](#caracteristicas)
 
--
-- [**Bibliografia**](#bibliografia)
+[Bibliografia](#bibliografia)
 
 ## Introducción
 
@@ -55,9 +57,11 @@ Soporte directo: Resolvemos tus dudas y respondemos a tus preguntas de manera r�
 Nuestras redes
 Estamos presentes en las plataformas más importantes. Síguenos en:
 
-# Facebook:#  Únete a nuestra comunidad y mantente al día con nuestras publicaciones
+# Facebook: #
+Únete a nuestra comunidad y mantente al día con nuestras publicaciones
 
-# Instagram:#  Inspírate con imágenes y videos detrás de escena
+# Instagram: #
+Inspírate con imágenes y videos detrás de escena
 
 # Twitter:# Recibe noticias rápidas y participa en conversaciones en tiempo real
 
@@ -78,28 +82,23 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 - HTML 5
 - CSS 3
 - Javascript
-- Editor : VSCODE
+- Editor de código: VSCODE
 
 ## Caracteristicas
 
 - Diseño responsivo, amigable, innovador, moderno
-- Tiene opciones para pago con tarjeta credito, debito, nequi.
 - Tiene venta de productos de percusion de diferentes tipos
-- Tiene la busqueda de productos
-- Conexion de redes sociales.
+- Tiene la busqueda de productos por tipo
 - Registrarse con su email
--
 
--como hacer saltos en el mismo documento
--como configurar imagenes
--como incluir codigo de html, css, js especifico, configuracion
--como explicar inserccion de dependencias, programas de terceros
+# Próximas versiones:
 
-contribuciones, reporte de problemas.
+- Tiene opciones para pago con tarjeta credito, debito, nequi.
+- Conexion de redes sociales.
+- Explicar inserccion de dependencias, programas de terceros, etc
+- Contribuciones, reporte de problemas.
 
 ## **Bibliografia**
 
-- <https://pandao.github.io/editor.md/en.html>
-
-- [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
+[Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
 [Guía definitiva de Markdown](https://neoguias.com/markdown)
