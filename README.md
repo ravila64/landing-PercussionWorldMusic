@@ -24,7 +24,7 @@ En PERCUSSION WORLD MUSIC, entendemos que cada ritmo cuenta y que la calidad es 
 
 Explora nuestras categorías, descubre las últimas novedades y aprovecha nuestras ofertas exclusivas. Además, nuestro equipo de atención al cliente está siempre disponible para ayudarte con cualquier duda o recomendación que necesites.
 
-¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!
+¡Haz que tu música cobre vida con PERCUSSION WORLD MUSIC, donde cada golpe de tambor es una oportunidad para crear magia!. ![Ir al comienzo](#tabla-de-contenido)
 
 <h2 align="center">2. Estructura de la APP </h2>
 
@@ -75,13 +75,15 @@ Conéctate profesionalmente y sigue nuestras actualizaciones corporativas
 
 Haz clic en los íconos de abajo y sé parte de nuestra red.
 
-Este texto invita a los usuarios a seguirte en redes, destacando los beneficios y la importancia de estar conectados.
+Este texto invita a los usuarios a seguirte en redes, destacando los beneficios y la importancia de estar conectados.  ![Ir al comienzo](#tabla-de-contenido)
 
 <h2 align="center">3. Visualización </h2>
 
 ## Visualización
 
 La visualización en una landing page se refiere a cómo se presenta la información visual y gráfica para captar la atención del usuario y guiarlo hacia una acción específica. Se trata de usar elementos visuales como imágenes, gráficos, íconos, colores y tipografía para transmitir un mensaje de manera clara y atractiva.
+
+<h2 align="center">4. Tecnologia </h2>
 
 ## Tecnologia
 
@@ -90,6 +92,8 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 - Javascript
 - Editor de código: VSCODE
 
+<h2 align="center">5. Características</h2>
+
 ## Caracteristicas
 
 - Diseño responsivo, amigable, innovador, moderno
@@ -97,7 +101,7 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 - Tiene la busqueda de productos por tipo
 - Registrarse con su email
 
-# Próximas versiones
+### Próximas versiones ###
 
 - Tiene opciones para pago con tarjeta credito, debito, nequi.
 - Conexion de redes sociales.
@@ -107,4 +111,5 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 ## **Bibliografia**
 
 [Tutorial de Tutorial Markdown](https://tutorialmarkdown.com)
+
 [Guía definitiva de Markdown](https://neoguias.com/markdown)
