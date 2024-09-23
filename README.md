@@ -118,7 +118,7 @@ La visualización en una landing page se refiere a cómo se presenta la informac
 
 ## Despliegue App
 
-![Despliegue](https://ravila64.github.io/landing-PercussionWorldMusic/)
+[Despliegue](https://ravila64.github.io/landing-PercussionWorldMusic/)
 
 ## **Bibliografia**
 
