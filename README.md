@@ -38,7 +38,8 @@ Descubre una amplia selección de instrumentos musicales y aprovecha nuestras of
 
 Utiliza nuestros filtros para encontrar fácilmente el instrumento de percusión perfecto. Explora por tipo, como membrana, cuerpo hueco, cuerda (trasteo), metal, madera y más. Ajusta las opciones según tus preferencias y descubre los sonidos que se adaptan a tu estilo.
 
-![imagen tarjeta](https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-elemento.GIF)
+![imagen tarjeta]()
+<img src="https://github.com/ravila64/landing-PercussionWorldMusic/blob/main/assets2/Landing-elemento.GIF" alt="tarjeta" width="200" heigth="auto"/>
 
 Cada tarjeta muestra el nombre del instrumento, una breve descripción y el precio, junto con una imagen. Puedes agregar el instrumento directamente a tu carrito con un solo clic. Los resultados se ajustan según el filtro que utilices, ya sea por tipo específico o mostrando todos los instrumentos disponibles.
 
@@ -57,10 +58,11 @@ Soporte directo: Resolvemos tus dudas y respondemos a tus preguntas de manera r�
 Nuestras redes
 Estamos presentes en las plataformas más importantes. Síguenos en:
 
-# Facebook: #
+###Facebook:###
+
 Únete a nuestra comunidad y mantente al día con nuestras publicaciones
 
-# Instagram: #
+##Instagram:##
 Inspírate con imágenes y videos detrás de escena
 
 # Twitter:# Recibe noticias rápidas y participa en conversaciones en tiempo real
